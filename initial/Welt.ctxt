@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Welt()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=adjustment
+comment2.target=void\ adjustScore(int)
+comment3.params=action
+comment3.target=void\ setAction(int)
+comment4.params=
+comment4.target=void\ getActorCounts()
+numComments=5

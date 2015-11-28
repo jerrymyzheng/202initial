@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=score
+comment0.target=Stats(int)
+comment0.text=\r\n\ Constructor\ Stats\:\ creates\ the\ background\ image\ that\ displays\ all\ the\ information\r\n
+comment1.params=side\ list\ me
+comment1.target=void\ addInfoBlocks(int,\ java.util.List,\ java.lang.String)
+comment1.text=\r\n\ Method\ addInfoBlocks\:\ adds\ the\ user\ info\ blocks\ to\ the\ background\ of\ the\ world\r\n\r\n\ @param\ side\ the\ side\ of\ the\ background\ image\ the\ info\ blocks\ created\ are\ to\ be\ drawn\ on\r\n\ @param\ list\ the\ list\ of\ UserInfo\ object\ whose\ info\ is\ to\ be\ shown\ within\ the\ block\ created\r\n\ @param\ me\ the\ name\ of\ the\ current\ user\r\n
+comment2.params=caption
+comment2.target=greenfoot.Actor\ getNewButton(java.lang.String)
+comment2.text=\r\n\ Method\ getNewButton\:\ creates\ an\ Actor\ object\ with\ a\ button\ image\ with\ the\ caption\ given;\ the\r\n\ image\ of\ the\ button\ is\ given\ the\ ability\ to\ change\ intensity\ as\ the\ mouse\ moves\ on\ and\ off\ it.\r\n\r\n\ @param\ caption\ the\ text\ to\ display\ on\ the\ button\r\n\ @return\ the\ button\ Actor\ object\ created\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Method\ act\ (for\ button\ Actor)\:\ changes\ intensity\ of\ image\ for\ mouse\ hovering\ action\r\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5
